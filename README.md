@@ -1,7 +1,9 @@
 # Anime
 
 ## Description:
-- Lending
+- Site Animé
+- Slider
+- Data (post, get, filtre, sort)
 
 ## Technology used
 
