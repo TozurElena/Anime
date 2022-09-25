@@ -11,7 +11,8 @@
 - Git and GitHub
 
 ### Useful links:
-- [seamless-scroll-polyfill](https://www.npmjs.com/package/seamless-scroll-polyfill)
+- [Seamless-scroll-polyfill](https://www.npmjs.com/package/seamless-scroll-polyfill)
+- [Swiper](https://swiperjs.com/)
 
 
 ## Hosting
