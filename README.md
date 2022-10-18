@@ -15,6 +15,7 @@
 ### Useful links:
 - [Seamless-scroll-polyfill](https://www.npmjs.com/package/seamless-scroll-polyfill)
 - [Swiper](https://swiperjs.com/)
+- [Firebase](https://firebase.google.com/)
 
 
 ## Hosting
